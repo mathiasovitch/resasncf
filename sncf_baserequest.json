@@ -1,0 +1,13 @@
+{
+"directTravel":true,
+"asymmetrical":false,
+"professional":false,
+"customerAccount":false,
+"oneWayTravel":true,
+"returnDate":null,
+"travelClass":"SECOND",
+"passengers":[{"travelerId":null,"profile":"ADULT","age":26,"fidelityCardType":"NONE","fidelityCardNumber":null,"commercialCardType":"NONE","promoCode":null}],
+"withRecliningSeat":false,
+"physicalSpace":null,
+"highlightedTravel":null
+}
